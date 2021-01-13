@@ -1,0 +1,27 @@
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: rgba(204, 216, 191, 0.623);
+    border-radius: 10px;
+}
+.btn-1{
+    background-color: rgb(51, 212, 30);
+    border-radius: 5px;
+}
+.pinky{
+   color: rgb(13, 228, 31);
+}
+.magenda{
+    color: orange;
+}
+.last-stage{
+   align-items: flex-end;
+}
